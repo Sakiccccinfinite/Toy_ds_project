@@ -1,2 +1,2 @@
 # Toy_ds_project
-Katherine Liu
+author: Katherine Liu
